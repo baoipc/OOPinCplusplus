@@ -254,7 +254,7 @@ Hybrid Inheritance is implemented by combining more than one type of inheritance
 
 ![image Hybrid Inheritance](image/Hybrid-Inheritance.png)
 
-![image Code Hybrid Inheritance](image/Code_Hybrid-inheritance.png)
+![image Code Hybrid Inheritance](image/Code_hybrid-inheritance.png)
 
 #### A special case of hybrid inheritance : Multipath inheritance
 
